@@ -21,7 +21,7 @@ def process_with_pandas(data):
 # Process data using polars
 def process_with_polars(data):
     df = pl.DataFrame(data)
-    result = df.group_by('B').agg(pl.col('A').mean().alias('mean_A'))
+    result = df.groupby('B').agg(pl.col('A').mean().alias('mean_A'))
     return result
 
 if __name__ == "__main__":
