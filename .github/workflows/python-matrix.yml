@@ -1,4 +1,4 @@
-name: Python Matrix Build
+name: Python Matrix Build (3.7, 3.8, 3.9)
 
 on:
   push:
