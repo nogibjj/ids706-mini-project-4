@@ -1,6 +1,6 @@
 # Python Matrix Build Project (Pandas vs. Polars)
 
-![Python Versions - 3.7/3.8/3.9](https://github.com/aghakishiyeva/ids706-mini-project-4/actions/workflows/python-matrix.yml/badge.svg)
+![Python Versions - 3.7/3.8/3.9](https://github.com/nogibjj/ids706-mini-project-4/actions/workflows/python-matrix.yml/badge.svg)
 
 This project demonstrates a matrix build using GitHub Actions to run a script with different Python versions. The script showcases processing data using both Pandas and Polars libraries and outputs the time taken by each library.
 
