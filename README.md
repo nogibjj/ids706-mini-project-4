@@ -16,7 +16,7 @@ This project demonstrates a matrix build using GitHub Actions to run a script wi
 pip install -r requirements.txt
 ```
 
-Run the data_processing.py script to see the processing time for both libraries:
+4. Run the data_processing.py script to see the processing time for both libraries:
 
 ```bash
 python data_processing.py
